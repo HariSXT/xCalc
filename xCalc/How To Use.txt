@@ -1,0 +1,19 @@
+'##::::'##::'######:::::'###::::'##::::::::'######::
+. ##::'##::'##... ##:::'## ##::: ##:::::::'##... ##:
+:. ##'##::: ##:::..:::'##:. ##:: ##::::::: ##:::..::
+::. ###:::: ##:::::::'##:::. ##: ##::::::: ##:::::::                  -Made By HarisXT-
+:: ## ##::: ##::::::: #########: ##::::::: ##:::::::
+: ##:. ##:: ##::: ##: ##.... ##: ##::::::: ##::: ##:
+##:::. ##:. ######:: ##:::: ##: ########:. ######::
+..:::::..:::......:::..:::::..::........:::......:::
+----------------------------------------------------
+xCalc is a simple and easy to use program and it ha-
+s only 1 use which is find percentages, (example:
+10/100 = 10%)
+How to use:
+This is an example,
+Input: Enter the numerator: 12
+Input: Enter the denominator: 67
+Output: The percentage is: 17.91%
+This is basically 17/67 which acording to xCalc is
+17.91%. Its really easy!
